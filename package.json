@@ -1,0 +1,28 @@
+{
+  "name": "starter-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@microsoft/microsoft-graph-client": "^3.0.7",
+    "@whiskeysockets/baileys": "^6.7.4",
+    "dotenv": "^16.3.1",
+    "moment-timezone": "^0.5.45",
+    "nodemon": "^3.0.1",
+    "pdf-lib": "^1.17.1",
+    "pdf-parse": "^1.1.1",
+    "pepesan": "github:mqad21/pepesan",
+    "string-template": "^1.0.0"
+  },
+  "nodemonConfig": {
+    "ignore": [
+      "session/*"
+    ]
+  }
+}
