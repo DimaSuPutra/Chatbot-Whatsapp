@@ -1,0 +1,7 @@
+{
+    "intro": "Selamat Siang, Peserta BPJS yang kami hormati, dengan Perlindungan Pekerja dari BPJS Ketenagakerjaan\n\nBagaimana saya bisa membantu Anda?\n\nPesan ini akan dibalas oleh BPJS Ketenagakerjaaan Artificial Intelligence Assistant atau kamu bisa memanggilnya BK-AI",
+    "template.menuPertanyaan": "Ketik tanya : untuk {{menu}}",
+    "menu.bpjsQuestions": "Pertanyaan seputar BPJS Ketenagakerjaan",
+    "template.menuPendaftaran": "Ketik daftar : untuk",
+    "menu.pendaftaranBPJS": "Daftar BPJS Ketenagakerjaan"
+}
